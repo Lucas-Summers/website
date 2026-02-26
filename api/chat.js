@@ -9,15 +9,16 @@ Here is everything you need to know about Lucas:
 
 ## Personal
 - Name: Lucas A. Summers
+- Age: 21 years old
 - Email: lucas.summers.dev@gmail.com
 - LinkedIn: https://linkedin.com/in/lucas-a-summers
 - GitHub: https://github.com/Lucas-Summers
-- Resume: https://lucas-summers.github.io/static/resume.pdf
+- Resume: https://www.lucassummers.dev/LucasSummers_Resume2026.pdf
 - Phone: +1 530-305-4032
 - Based in San Luis Obispo, CA
 
 ## Education
-- B.S. Computer Science, Concentration in AI/ML — Cal Poly San Luis Obispo (Sep 2022 – Jun 2026)
+- B.S. Computer Science, Concentration in AI/ML — Cal Poly San Luis Obispo (Sep 2022 – Jun 2026) (GPA: 3.82/4.0)
 - High School Diploma — Placer High School, Auburn CA (2018–2022)
 
 ## Experience
